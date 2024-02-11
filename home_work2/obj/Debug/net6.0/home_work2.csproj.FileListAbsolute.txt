@@ -1,0 +1,15 @@
+C:\Users\FA507XV\Desktop\home_work\home_work2\bin\Debug\net6.0\home_work2.exe
+C:\Users\FA507XV\Desktop\home_work\home_work2\bin\Debug\net6.0\home_work2.deps.json
+C:\Users\FA507XV\Desktop\home_work\home_work2\bin\Debug\net6.0\home_work2.runtimeconfig.json
+C:\Users\FA507XV\Desktop\home_work\home_work2\bin\Debug\net6.0\home_work2.dll
+C:\Users\FA507XV\Desktop\home_work\home_work2\bin\Debug\net6.0\home_work2.pdb
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.csproj.AssemblyReference.cache
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.AssemblyInfoInputs.cache
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.AssemblyInfo.cs
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.dll
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\refint\home_work2.dll
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.pdb
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\home_work2.genruntimeconfig.cache
+C:\Users\FA507XV\Desktop\home_work\home_work2\obj\Debug\net6.0\ref\home_work2.dll
